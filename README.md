@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ife A-Olulesi</h1>
-<h3 align="center">An enthusiastic fullstack developer and from Nigeria</h3>
+<h3 align="center">An enthusiastic software developer and product designer(UX) from Nigeria!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeolulesi&label=Profile%20views&color=0e75b6&style=flat" alt="ifeolulesi" /> </p>
 
-- 🌱 I’m currently learning **React and ASP.NET MVC**
+- 🌱 I’m currently learning **React and Redux**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django || CSS || React**
 
 - 📫 How to reach me **ifeolulesi@gmail.com**
 
-- ⚡ Vision **Living each day with heaven in view**
+- ⚡ Vision: **To always put in my best effort for God and for humanity**
 
 
 <h3 align="left">Languages and Tools:</h3>
