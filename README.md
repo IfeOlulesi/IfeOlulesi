@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 💬 Ask me about **Django || CSS || React**
+- 💬 Ask me about **Django || CSS || React || Figma**
 
 - 📫 How to reach me **ifeolulesi@gmail.com**
 
