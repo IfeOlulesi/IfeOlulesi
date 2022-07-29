@@ -11,7 +11,7 @@
 
 - ⚡ Vision: **To always put in my best effort for God and for humanity**
 
-- Final Year Project Work: https://main--cute-mandazi-06ffe7.netlify.app/
+- Final Year Project Work: https://haveit.netlify.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
