@@ -9,7 +9,7 @@
 
 - 📫 Reach me here: **ifeolulesi@gmail.com**
 
-- 📄 Resume: [https://docs.google.com/document/d/188cG9CKrWiVQ92_G28VbRHmw4ZVRJR0t194KgoUh7uc/edit?usp=sharing](https://docs.google.com/document/d/188cG9CKrWiVQ92_G28VbRHmw4ZVRJR0t194KgoUh7uc/edit?usp=sharing)
+- 📄 Resume: [View my Resume](https://docs.google.com/document/d/188cG9CKrWiVQ92_G28VbRHmw4ZVRJR0t194KgoUh7uc/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a musician and creative photographer**
 
