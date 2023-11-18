@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeolulesi&label=Profile%20views&color=0e75b6&style=flat" alt="ifeolulesi" /> </p>
 
 
-<img align="right" width="450" height="300" src="https://github.com/IfeOlulesi/IfeOlulesi/assets/53560106/9512e884-6bfc-4758-afbf-5f20863fc6cc" />
+
+<img align="right" src="https://github.com/IfeOlulesi/IfeOlulesi/assets/53560106/3b6176e6-5863-4f57-ac52-d0bfad693a78" />
 
 - 💎 I’m passionate about **Computer Vision & Extended Reality (AR/VR)**
 
