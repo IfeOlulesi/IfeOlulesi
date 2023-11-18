@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ife</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
-<br> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeolulesi&label=Profile%20views&color=0e75b6&style=flat" alt="ifeolulesi" /> </p>
+
 
 <img align="right" width="450" height="300" src="https://github.com/IfeOlulesi/IfeOlulesi/assets/53560106/9512e884-6bfc-4758-afbf-5f20863fc6cc" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeolulesi&label=Profile%20views&color=0e75b6&style=flat" alt="ifeolulesi" /> </p>
 
 - 💎 I’m passionate about **Computer Vision & Extended Reality (AR/VR)**
 
